@@ -6,7 +6,6 @@ import UIKit
 var selectedNumBox1 = [String]()
 var selectedNumBox2 = [String]()
 var selectedNumBox3 = [String]()
-var selectedNumBox4 = [String]()
 
 func putLotteryNumberInBox(number: String) {
     let ar = number.components(separatedBy: ",")
